@@ -28,9 +28,6 @@
   font-size: 20px;
 }
 
-h1 {
-}
-
 #photo-heading {
   text-align: center;
 }
@@ -63,7 +60,7 @@ h1 {
 }
 
 #footer p {
-  height: 30px;
+  height: 20px;
 }
 
 .form-label {
@@ -116,4 +113,14 @@ form .form-group {
 #product-id {
   width: 100%;
 }
+
+.left-col {
+  height: auto;
+}
+
+.right-col {
+  height: auto;
+}
+
+
 
